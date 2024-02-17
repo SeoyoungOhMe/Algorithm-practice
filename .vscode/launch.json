@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/osy/Desktop/Test-Altu-Bitu/c++",
+      "program": "/Users/osy/Desktop/Test-Altu-Bitu/c++/build/Debug/outDebug"
+    }
+  ]
+}
