@@ -63,6 +63,7 @@
     "typeinfo": "cpp",
     "iosfwd": "cpp",
     "string": "cpp",
-    "chrono": "cpp"
+    "chrono": "cpp",
+    "sstream": "cpp"
   }
 }
